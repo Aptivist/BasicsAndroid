@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicsCourse</string>
+    <string name="hi_world">Hi World</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="save_person">Save Person</string>
+    <string name="clear_screen">Clear Screen</string>
+    <string name="get_person">Get Person</string>
+</resources>
